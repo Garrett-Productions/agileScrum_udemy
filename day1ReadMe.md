@@ -26,4 +26,4 @@ Principles
 2. Welcome changing requirements
 3. Deliver working software frequently 
 4. Agile opens communication
-5. Build projects around motivsted individuals
+5. Build projects around motivsted individuals - these teams are cross functional
