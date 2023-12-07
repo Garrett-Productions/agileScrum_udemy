@@ -31,3 +31,4 @@ Principles
 7. Working software is progress
 8. Sustainable Development - the whole team moves the project forward
 9. Technical Excellence 
+10. Simplicity - Think google.com
