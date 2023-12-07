@@ -19,3 +19,4 @@ VALUES
 - working software > comprehensive documentation 
 3. Customer collaboration over contract negotiation
 4. Responding to Change over Following a Plan
+- Respond to change, everyone has a plan until they get punched in the face
