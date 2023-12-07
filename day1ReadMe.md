@@ -20,3 +20,10 @@ VALUES
 3. Customer collaboration over contract negotiation
 4. Responding to Change over Following a Plan
 - Respond to change, everyone has a plan until they get punched in the face
+
+Principles
+1. Deliver value faster
+2. Welcome changing requirements
+3. Deliver working software frequently 
+4. Agile opens communication
+5. Build projects around motivsted individuals
