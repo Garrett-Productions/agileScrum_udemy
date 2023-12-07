@@ -29,3 +29,5 @@ Principles
 5. Build projects around motivsted individuals - these teams are cross functional
 6. Face to Face
 7. Working software is progress
+8. Sustainable Development - the whole team moves the project forward
+9. Technical Excellence 
