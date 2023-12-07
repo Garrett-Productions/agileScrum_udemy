@@ -27,3 +27,5 @@ Principles
 3. Deliver working software frequently 
 4. Agile opens communication
 5. Build projects around motivsted individuals - these teams are cross functional
+6. Face to Face
+7. Working software is progress
