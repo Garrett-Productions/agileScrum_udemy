@@ -38,3 +38,6 @@ Principles
 11,2,1,8,10
 
 Agile allows you to create working software as we go, instead of working for months or years building one project and delivering it all at once
+What is waterfall methodology?
+is it Agile vs Waterfall?
+- Its hard for companies to convert into agile versus building ground up in agile processes
