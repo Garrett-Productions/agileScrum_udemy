@@ -34,3 +34,7 @@ Principles
 10. Simplicity - Think google.com
 11. Self organizing teams make projects run
 12. Reflect and Adjust
+
+11,2,1,8,10
+
+Agile allows you to create working software as we go, instead of working for months or years building one project and delivering it all at once
