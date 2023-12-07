@@ -33,3 +33,4 @@ Principles
 9. Technical Excellence 
 10. Simplicity - Think google.com
 11. Self organizing teams make projects run
+12. Reflect and Adjust
