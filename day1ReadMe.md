@@ -32,3 +32,4 @@ Principles
 8. Sustainable Development - the whole team moves the project forward
 9. Technical Excellence 
 10. Simplicity - Think google.com
+11. Self organizing teams make projects run
